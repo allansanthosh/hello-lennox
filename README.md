@@ -14,7 +14,7 @@ This is a repository to practice using Git and GitHub.
 
   * Aishwarya
   * Saranya Chidambaram
-  * Nivedha
+  * Nivedha - web and mobility
   * Harini
   * Gopi Vadalapti
   * Nicholas
@@ -38,4 +38,4 @@ This is a repository to practice using Git and GitHub.
   * Shriguru
   * Vishwa Poojitha - IT Web and mobility
   * Divakar - Team Name : Web and Mobility.
-  * Vijay Kumar - Hope people got a better understanding Git!
+  * Vijay Kumar - Hope people got a better understanding Git
