@@ -37,7 +37,5 @@ This is a repository to practice using Git and GitHub.
   * Arunachalam
   * Shriguru
   * Vishwa Poojitha - IT Web and mobility
-  * Divakar
-
- 
-  Team Name : Web and Mobility.
+  * Divakar - Team Name : Web and Mobility.
+  * Vijay Kumar - Hope people got a better understanding Git!
